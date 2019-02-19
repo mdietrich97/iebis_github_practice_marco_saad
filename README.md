@@ -13,3 +13,10 @@ Instructions:
 ## Add your names below:
 alumn1: Marco
 alumn2: Saad
+
+**Reasons to hire us**
+* We are _professional_
+* We have **talent**
+* `International`
+**Check out our website at:** [link][website]
+[website]:http://www.truepassion.co/
