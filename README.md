@@ -14,9 +14,11 @@ Instructions:
 alumn1: Marco
 alumn2: Saad
 
-**Reasons to hire us**
+# **Reasons to hire us**
 * We are _professional_
 * We have **talent**
 * `International`
-**Check out our website :** [here](http://www.truepassion.co)
+
+# **Check out our website :** 
+[here](http://www.truepassion.co)
 
