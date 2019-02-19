@@ -18,5 +18,4 @@ alumn2: Saad
 * We are _professional_
 * We have **talent**
 * `International`
-**Check out our website at:** [link][website]
-[website]:http://www.truepassion.co/
+**Check out our website at:** [http://www.truepassion.co/]
